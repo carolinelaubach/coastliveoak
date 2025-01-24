@@ -1,4 +1,3 @@
-# Testing testing to create a group assignment folder
 ## Group title & name here
 ### Research question introduction
 #### Why this matters: Coast live oaks are a type of evergreen oak native to California. Coast live oaks prevent erosion, support local fauna, and are resistant to low-intensity wildfires. Coast lives oaks can be used as a proxy to understanding the current landscape of ecological biodiversity in Southern California, or more specifically, LA County. Fortifying our green spaces with native flora will help our green spaces thrive as climate change progresses. In addition to building the resiliency of current green spaces, new green spaces must be created and urban forestry efforts should invested in to provide equitable access to nature and shade.   
