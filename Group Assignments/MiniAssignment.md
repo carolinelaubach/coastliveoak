@@ -1,4 +1,7 @@
-Project title and link to proposal
+# Coast Live Oak Project
+*By: Caroline Laubach, Ethan Trinh, and Will Callan*
+
+[Project Proposal](https://github.com/carolinelaubach/coastliveoak/blob/main/Group%20Assignments/readme.md)
 
 ### Roles: 
 Will: Project manager, schedules group meetings
