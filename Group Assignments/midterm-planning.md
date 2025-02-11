@@ -23,6 +23,7 @@
 - tiger/line -- look at midterm-wcallan.ipynb
 - basemap: CartoDB.Positron or CartoDB.PositronNoLabels (probably labels)
 - oak color: green
+- soil type data: https://geohub.lacity.org/datasets/lacounty::soil-types-feature-layer/about
 
 ### Research questions
 - Caroline:
