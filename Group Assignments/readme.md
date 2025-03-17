@@ -9,6 +9,8 @@ Research [from the US Forest Service](https://www.fs.usda.gov/psw/publications/d
 
 In this project, we ask: What is the relationship between coast live oak presence and neighborhood characteristics in LA County? Sub-questions include: Does a larger presence of coast live oaks correlate with higher income areas? Does it correlate with larger white populations? What is the relationship between oak presence and housing characteristics such as vintage and heating-fuel type, both of which may have implications for vulnerability to wildfires and/or urban structure fires?
 
+For our final project, we narrow our analysis to address the following question: Which parts of Altadena, which was largely destroyed by the Eaton Fire, might be good candidates for coast live oak plantings?
+
 #### Data 
 
 Our oak data comes from [iNaturalist](https://www.inaturalist.org/observations?place_id=962&taxon_id=47850).
